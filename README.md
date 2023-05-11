@@ -5,4 +5,3 @@ This is a website i made just to play games, chat, use proxys/VMS, Emulate, and 
 Have Fun
 
 
-https://sites.google.com/view/hexxedgames
